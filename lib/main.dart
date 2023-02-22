@@ -49,7 +49,7 @@ class _MainPageState extends State<MainPage> {
     return Scaffold(
       appBar: AppBar(
         title:
-            const Text("Login Screen", style: TextStyle(color: Colors.white)),
+            const Text("Logged Screen", style: TextStyle(color: Colors.white)),
         actions: <Widget>[
           ElevatedButton(
             onPressed: () {
