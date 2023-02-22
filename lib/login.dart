@@ -27,7 +27,7 @@ class _LoginPageState extends State<LoginPage> {
       body: Container(
         decoration: const BoxDecoration(
           gradient: LinearGradient(
-              colors: [Colors.orange, Colors.orangeAccent],
+              colors: [Colors.blue, Colors.blueAccent],
               begin: Alignment.topCenter,
               end: Alignment.bottomCenter),
         ),
